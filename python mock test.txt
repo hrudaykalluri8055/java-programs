@@ -1,0 +1,13 @@
+what is python
+interpreter
+loops
+while loop
+difference of while and for
+oops
+conditional statements
+if - else - elif -
+nested workflow(if - if - else - else)
+control flow break
+lamda functions(How many functions , how many argumnets)
+list compression(1 20)
+prime number
